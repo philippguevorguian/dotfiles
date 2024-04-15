@@ -133,6 +133,7 @@ unset __conda_setup
 
 export PATH="/home/philipp/bin:$PATH"
 export PATH="/home/philipp/.local/bin:$PATH"
+export EDITOR=lvim
 
 
 export NVM_DIR="$HOME/.nvm"
